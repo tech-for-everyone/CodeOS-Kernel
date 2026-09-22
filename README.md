@@ -13,19 +13,21 @@ own — not FreeBSD-based or anything — completely new.
 
 ## Story
 
-I was on June 2 2026 thinking about CodeOS when an idea hit me: "what if I
+I was on June 2, 2026, thinking about CodeOS when an idea hit me: "What if I
 make a kernel that is for CodeOS?" Well, I did, and here is the result.
 
 ## Notes
 
 Still in development, so do not expect it to run desktops like XFCE 4,
-Hyprland, or Plasma — you have to wait for support, and the files will
+Hyprland, or Plasma — you have to wait for support, and the files will be able to be copied by
+```sh
+git clone https://github.com/tech-for-everyone/CodeOS-Kernel/edit/main
+```
 
-## ONLY BE RELEASED IN A .bin FORMAT
 
 ## Layout
 
-This repository mirrors the `kernel/` directory of the CodeOS tree one-to-one:
+This repository duplicates the `kernel/` directory of the CodeOS tree one-to-one:
 
 ```
 arch/       — per-arch support (x86_64, arm64)
@@ -72,4 +74,4 @@ and generated files are not committed (see `.gitignore`).
 
 ## License
 
-GPL-3.0 (see LICENSE), matching the CodeOS kernel (COPYING).
+GPL-3.0 (see LICENSE), corresponding to the CodeOS Kernel (COPYING).
