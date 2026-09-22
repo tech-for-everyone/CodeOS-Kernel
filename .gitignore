@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.d
+*.bin
+*.flat
+*.iso
+*.img
+*.raw
+disk.img
+
+# Rust build output (rust_ow / rust_penrose / rust_hyperde)
+/target/
+
+# Generated initramfs embedding
+kernel/initramfs_files.c

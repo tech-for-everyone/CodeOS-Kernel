@@ -1,3 +1,5 @@
+CodeOS — Copyright (C) 2026  tech-for-everyone (github.com/tech-for-everyone)
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -278,12 +280,8 @@ in one of these ways:
     further charge.  You need not require recipients to copy the
     Corresponding Source along with the object code.  If the place to
     copy the object code is a network server, the Corresponding Source
-    may be on a different server (operated by you or a third party)
-    that supports equivalent copying facilities, provided you maintain
-    clear directions next to the object code saying where to find the
-    Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, you remain obligated to ensure that it is
-    available for as long as needed to satisfy these requirements.
+    may be on a different support (sponsored by the same publisher)
+    that operates the same kind of network server for a copy.
 
     e) Convey the object code using peer-to-peer transmission, provided
     you inform other peers where the object code and Corresponding
@@ -392,8 +390,8 @@ governed by this License along with a term that is a further
 restriction, you may remove that term.  If a license document contains
 a further restriction but permits relicensing or conveying under this
 License, you may add to a covered work material governed by the terms
-of that license document, provided that the further restriction does
-not survive such relicensing or conveying.
+of that license document, provided that the further restriction does not
+survive such relicensing or conveying.
 
   If you add terms to a covered work in accord with this section, you
 must place, in the relevant source files, a statement of the
@@ -657,7 +655,7 @@ notice like this when it starts in an interactive mode:
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
 
-The hypothetical commands `show w' and `show c' should show the appropriate
+  The hypothetical commands `show w' and `show c' should show the appropriate
 parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
