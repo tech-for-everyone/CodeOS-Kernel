@@ -3,8 +3,7 @@
 This is the kernel that powers CodeOS. It is the actual kernel source from
 the CodeOS tree (`kernel/` directory), mirrored here so it can be built and
 tracked on its own. This kernel is still in development — I recommend NOT
-using it on actual hardware; run it in VirtualBox or QEMU instead, because
-this kernel is still Unix-like.
+using it on actual hardware; run it in VirtualBox or QEMU instead
 
 ## Is it Linux-Based
 
@@ -14,12 +13,12 @@ own — not FreeBSD-based or anything — completely new.
 ## Story
 
 I was on June 2, 2026, thinking about CodeOS when an idea hit me: "What if I
-make a kernel that is for CodeOS?" Well, I did, and here is the result.
+make a kernel?" Well, I did, and here is the result.
 
 ## Notes
 
 Still in development, so do not expect it to run desktops like XFCE 4,
-Hyprland, or Plasma — you have to wait for support, and the files will be able to be copied by
+Hyprland, or Plasma — you have to wait for support, and the files can be copied by
 ```sh
 git clone https://github.com/tech-for-everyone/CodeOS-Kernel/edit/main
 ```
