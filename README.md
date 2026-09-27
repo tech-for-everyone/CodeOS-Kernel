@@ -73,4 +73,4 @@ and generated files are not committed (see `.gitignore`).
 
 ## License
 
-GPL-3.0 (see LICENSE), corresponding to the CodeOS Kernel (COPYING).
+GPL-2.0 (see LICENSE), corresponding to the CodeOS Kernel (COPYING).
